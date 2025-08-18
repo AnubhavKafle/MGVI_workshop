@@ -1,0 +1,19 @@
+name: mgvi_docking
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10 # needed for
+  - openbabel
+  - pdbfixer
+  - meeko
+  - vina
+  - rdkit
+  - py3Dmol
+  - matplotlib
+  - numpy
+  - mdtraj
+  - pip
+  - pip:
+      - py3Dmol
+      - mdtraj

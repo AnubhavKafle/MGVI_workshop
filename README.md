@@ -40,4 +40,4 @@ Here's a brief overview of what you can expect to cover:
 - [AlphaFold Structure Database](https://alphafold.ebi.ac.uk/)
 
 ### Contact
-Anubhav Kaphle (AEHRC,CSIRO) [Email](mailto:anubhav.kaphle@csiro.au)
+Anubhav Kaphle (AEHRC,CSIRO) [anubhav.kaphle@csiro.au](mailto:anubhav.kaphle@csiro.au)

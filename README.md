@@ -1,23 +1,23 @@
 # MGVI Molecular Docking Workshop
 
-Welcome to the **workshop on "Introduction to AlphaFold3 and Molecular Docking"**. This comprehensive 3-day workshop will guide you through the fundamentals of protein structure analysis, AlphaFold3 usage, and molecular docking techniques using HIV-1 protease as our primary case study.
+Welcome to the **workshop on "Introduction to AlphaFold3 and Molecular Docking"**. This comprehensive 3-day workshop will guide you through the fundamentals of protein structure analysis, AlphaFold3 theory and practical usage and considerations, and molecular docking techniques using HIV-1 protease and drug Darunavir as our primary case study.
 
 ## 🎯 Workshop Overview
 
-This hands-on workshop combines theoretical knowledge with practical skills, covering everything from basic protein structure concepts to advanced molecular docking simulations. You'll learn to use industry-standard tools like ChimeraX, AutoDock Vina, and AlphaFold3 to understand protein-ligand interactions.
+This hands-on workshop combines theoretical knowledge with practical skills, covering everything from basic protein structure concepts to advanced molecular docking simulations using rigid docking setup. You'll learn to use industry-standard tools like ChimeraX, AutoDock Vina (through Python Binding), and AlphaFold3 to study protein-ligand interactions.
 
 ## 📋 Prerequisites & Setup
 
 ### System Requirements
 
-- **Operating System**: Windows 10/11, macOS 10.14+, or Linux (e.g.,Ubuntu 22.04)
+- **Operating System**: macOS 10.14+, or Linux (e.g.,Ubuntu 22.04)
 - **RAM**: Minimum 8GB, recommended 16GB
 - **Storage**: At least 5GB free space
 - **Internet**: Stable connection for downloading software and databases
 
 ### Step 1: Install Conda (Miniconda/Anaconda)
 
-**If you already have Conda installed, skip to Step 2.** Please note the installation process below is only for MacOS and Linux systems.
+**If you already have Conda installed, skip to Step 2.** Please note the installation process considered below is only for MacOS and Linux systems. Windows system are usually difficult to work with for these work but not impossible.
 
 #### For macOS
 

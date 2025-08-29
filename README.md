@@ -112,7 +112,7 @@ chimerax --version
 
 ```bash
 chimerax --version
-``` 
+```
 
 **AutoDock Vina(conda package) problems**:
 The pdbqt files in the folder cannot be overwritten. So, if the error message says that the file already exists, you can delete the file and try again with the python notebook.
@@ -197,4 +197,3 @@ Before the workshop begins, ensure you have:
 - [ ] ChimeraX downloaded and installed
 - [ ] Jupyter Notebook can launch
 - [ ] Stable internet connection
-

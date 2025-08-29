@@ -117,7 +117,7 @@ chimerax --version
 **AutoDock Vina(conda package) problems**:
 The pdbqt files in the folder cannot be overwritten. So, if the error message says that the file already exists, you can delete the file and try again with the python notebook.
 
-The docking workflow is in the "Molecular-Docking-Ligand-Protein-workflow.ipynb" file. Make sure the code can access pdb files in **your local directory**.
+The docking workflow is in the "Molecular-Docking-Ligand-Protein-workflow.ipynb" file inside the Day-3 folder. Make sure the code can access pdb files in **your local directory**.
 
 ## 📅 Daily Schedule
 

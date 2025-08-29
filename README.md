@@ -178,7 +178,9 @@ The docking workflow is in the "Molecular-Docking-Ligand-Protein-workflow.ipynb"
 ## 📧 Contact Information
 
 **Repo maintainer**: Anubhav Kaphle  
-**Institution**: Australian e-Health Research Centre, CSIRO, Melbourne 
+
+**Institution**: Australian e-Health Research Centre, CSIRO, Melbourne, Australia
+
 **Email**: [anubhav.kaphle@csiro.au](mailto:anubhav.kaphle@csiro.au)
 
 ---

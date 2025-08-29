@@ -82,6 +82,43 @@ You should see the version number in the output.
 
 **Test ChimeraX** by opening the application from your desktop/applications folder.
 
+### Troubleshooting
+
+**Environment creation problems**:
+
+```bash
+conda env create -f workshop.yml
+```
+
+**Environment activation problems**:
+
+```bash
+conda activate mgvi_docking
+```
+
+**Jupyter problems**:
+
+```bash
+jupyter --version
+```
+
+**ChimeraX problems**:
+
+```bash
+chimerax --version
+```
+
+**ChimeraX installation problems**:
+
+```bash
+chimerax --version
+``` 
+
+**AutoDock Vina(conda package) problems**:
+The pdbqt files in the folder cannot be overwritten. So, if the error message says that the file already exists, you can delete the file and try again with the python notebook.
+
+The docking workflow is in the "Molecular-Docking-Ligand-Protein-workflow.ipynb" file. Make sure the code can access pdb files in **your local directory**.
+
 ## 📅 Daily Schedule
 
 ### Day 1: Foundations
@@ -159,4 +196,3 @@ Before the workshop begins, ensure you have:
 - [ ] Jupyter Notebook can launch
 - [ ] Stable internet connection
 
-**Ready to dock some molecules?** 🧬 See you at the workshop!

@@ -111,7 +111,7 @@ chimerax --version
 **AutoDock Vina(conda package) problems**:
 The pdbqt files in the folder cannot be overwritten. So, if the error message says that the file already exists, you can delete the file and try again with the python notebook.
 
-The docking workflow is in the "Molecular-Docking-Ligand-Protein-workflow.ipynb" file inside the Day-3 folder. Make sure the code can access pdb files in **your local directory**.
+The docking workflow is in the "Molecular-Docking-Ligand-Protein-workflow.ipynb" file inside the Day-3-Docking folder. Also, make sure the code given in the jupyter notebook can access the pdb files in **your local directory**. These example PDB files are in the PDB folder. I have also included AlphaFold3 predicted ligand-protein complexes. The free Google's AlphaFold3 server does not allow prediction of HIV-1 protease with Darunavir (only a handful of small general ligands are allowed). So, I have included the AlphaFold3 predicted ligand-protein complexes in the AlphaFold3 folder from the run we did on our CSIRO's HPC.
 
 ## 📅 Daily Schedule
 
@@ -120,12 +120,12 @@ The docking workflow is in the "Molecular-Docking-Ligand-Protein-workflow.ipynb"
 - **Protein Structure 101** - *Led by Mothar*
 - **Understanding AlphaFold**: Capabilities and limitations
 - **Hands-on**: AlphaFold3 server familiarization
-- **Lab Setup**: Environment testing and tool verification
+- **Lab Setup**: Environment testing and tool verification (Installation was done by Yusuf and the Bioinformatics team already for the workshop in those workstations)
 
 ### Day 2: Target Analysis
 
 - **Case Study**: HIV-1 protease structure and function
-- **Mutation Analysis**: Understanding structural variants
+- **Mutation Analysis**: Understanding structural variants and effects of mutations
 - **Visualization Skills**: Advanced ChimeraX techniques
 - **Ligand Chemistry**: Binding patterns and interactions
 - **Measurement Tools**: Distance analysis in ChimeraX
@@ -134,9 +134,9 @@ The docking workflow is in the "Molecular-Docking-Ligand-Protein-workflow.ipynb"
 
 - **Docking Theory**: Principles and algorithms
 - **Structure Preparation**: Protein and ligand processing
-- **Binding Site Definition**: Search space optimization
+- **Binding Site Definition**: Search space optimization and grid box definition
 - **Simulation Execution**: Running AutoDock Vina
-- **Results Analysis**: Interpretation and visualization
+- **Results Analysis**: Interpretation and visualization and comparision
 
 ## 🛠️ Tools & Software
 
